@@ -2,6 +2,6 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = 'Bret Witt | Personal Portfolio';
-export const SITE_DESCRIPTION = 'Robotics, Software Engineering, & ML enthusiast';
+export const SITE_DESCRIPTION = 'Robotics, Software Engineering, Autonomy, & ML enthusiast';
 export const GENERATE_SLUG_FROM_TITLE = true
 export const TRANSITION_API = true
